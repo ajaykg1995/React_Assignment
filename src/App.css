@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10%;
+}
+body {
+  font-family: sans-serif;
+  background: #1F1D2B;
+  color: #ffffff;
+  padding: 10px 20px;
+}
